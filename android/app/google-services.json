@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830862858085",
+    "project_id": "homeworkai-6d59a",
+    "storage_bucket": "homeworkai-6d59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830862858085:android:e75fd1ff220a71a2e7b38c",
+        "android_client_info": {
+          "package_name": "com.dotai.learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830862858085-bl7n0di481ieep3hptnhtvv6umicfs25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjn-EyyJ-lbUZJFdVg80zIDumvGVU93w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830862858085-bl7n0di481ieep3hptnhtvv6umicfs25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
